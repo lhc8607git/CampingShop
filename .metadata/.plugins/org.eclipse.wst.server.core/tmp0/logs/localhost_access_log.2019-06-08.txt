@@ -1,0 +1,14 @@
+127.0.0.1 - - [08/Jun/2019:16:23:23 +0900] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [08/Jun/2019:16:23:24 +0900] "GET /test1/manager/managerMain.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [08/Jun/2019:16:23:24 +0900] "GET /test1/manager/logon/managerLoginForm.jsp HTTP/1.1" 200 2235
+0:0:0:0:0:0:0:1 - - [08/Jun/2019:16:23:24 +0900] "GET /test1/sourceboot/css/bootstrap.min.css HTTP/1.1" 200 181453
+0:0:0:0:0:0:0:1 - - [08/Jun/2019:16:23:29 +0900] "POST /test1/manager/logon/managerLoginPro.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [08/Jun/2019:16:23:29 +0900] "GET /test1/manager/managerMain.jsp HTTP/1.1" 200 1049
+0:0:0:0:0:0:0:1 - - [08/Jun/2019:16:23:31 +0900] "POST /test1/manager/logon/managerLogout.jsp HTTP/1.1" 200 110
+0:0:0:0:0:0:0:1 - - [08/Jun/2019:16:23:31 +0900] "GET /test1/manager/managerMain.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [08/Jun/2019:16:23:31 +0900] "GET /test1/manager/logon/managerLoginForm.jsp HTTP/1.1" 200 2235
+0:0:0:0:0:0:0:1 - - [08/Jun/2019:16:24:02 +0900] "POST /test1/manager/logon/managerLoginPro.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [08/Jun/2019:16:24:02 +0900] "GET /test1/manager/managerMain.jsp HTTP/1.1" 200 1049
+0:0:0:0:0:0:0:1 - - [08/Jun/2019:16:24:11 +0900] "POST /test1/manager/logon/managerLogout.jsp HTTP/1.1" 200 110
+0:0:0:0:0:0:0:1 - - [08/Jun/2019:16:24:12 +0900] "GET /test1/manager/managerMain.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [08/Jun/2019:16:24:12 +0900] "GET /test1/manager/logon/managerLoginForm.jsp HTTP/1.1" 200 2235

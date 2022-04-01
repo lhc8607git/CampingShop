@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\campingshop\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1178376601.index
+4197144737.index
+1460267384.index
+3044622053.index
+4005203962.index
+2250130128.index
+4288363017.index

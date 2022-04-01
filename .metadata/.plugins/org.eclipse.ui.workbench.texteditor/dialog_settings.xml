@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.jst.jsp.ui.internal.preferences.ui.JSPTemplatePreferencePage$JSPEditTemplateDialog_dialogBounds">
+		<item value="717" key="DIALOG_WIDTH"/>
+		<item value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕" key="DIALOG_FONT_NAME"/>
+		<item value="419" key="DIALOG_HEIGHT"/>
+		<item value="-38" key="DIALOG_X_ORIGIN"/>
+		<item value="246" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="buyer" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="buyer"/>
+			<item value="deliveryAddess"/>
+			<item value="deliveryAddessNum"/>
+			<item value="deliveryTel"/>
+			<item value="deliveryName"/>
+			<item value="account"/>
+			<item value="book_kind"/>
+			<item value="shop/list.jsp?clock_kind"/>
+			<item value="book"/>
+			<item value="resourse"/>
+			<item value="resourse-ref"/>
+			<item value="number"/>
+			<item value="camapingitem_id"/>
+			<item value="camapingitem_discount_rate"/>
+			<item value="cmapingitem_discount_rate"/>
+		</list>
+		<list key="replacehistory">
+			<item value="list.jsp?campingitem_kind"/>
+			<item value="campingitem"/>
+			<item value="campingitem_launched"/>
+			<item value="campingitem_"/>
+			<item value="cam"/>
+			<item value="ShopCampingitemDataBean"/>
+			<item value="campping"/>
+			<item value="Campping"/>
+			<item value=""/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="657" key="DIALOG_WIDTH"/>
+		<item value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕" key="DIALOG_FONT_NAME"/>
+		<item value="486" key="DIALOG_HEIGHT"/>
+		<item value="352" key="DIALOG_X_ORIGIN"/>
+		<item value="422" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

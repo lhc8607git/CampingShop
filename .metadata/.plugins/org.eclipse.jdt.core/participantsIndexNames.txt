@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+D:\campingshop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2280248730.index
+\test1\src
+D:\campingshop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4270787754.index
+\test1\src
+D:\campingshop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\243530944.index
+\test1\src
+D:\campingshop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4005203962.index
+\test1\src
+D:\campingshop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4220069471.index
+\test1\src
