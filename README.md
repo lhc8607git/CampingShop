@@ -46,3 +46,8 @@ Model1구조로 설계하여 개발하였습니다.
 ## 👀 결제 - I’mportAPI [Kakao Pay] :
 ![img21](https://user-images.githubusercontent.com/39355400/161222953-df102ccd-a315-4e63-8a7b-456597e576bc.PNG)
 
+<br>
+
+## 👀 상품관리 :
+![img22](https://user-images.githubusercontent.com/39355400/161224401-b32c6d0a-03cb-42d2-80bd-52ede1144c02.PNG)
+
