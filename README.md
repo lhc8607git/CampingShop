@@ -19,6 +19,9 @@ Model1구조로 설계하여 개발하였습니다.
 ## 😁 인원
 - 4명
 
+## 🔨 Language
+- Java, JS
+
 ## 🛠 Tool
 -  IDE [Eclipse/Android Studio], DB [MySQL], Server [JSP/Tomcat/JQuery]
 
