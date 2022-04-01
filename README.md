@@ -39,7 +39,7 @@ Model1구조로 설계하여 개발하였습니다.
 <br>
 
 ## 👀 Pagenation [Q&A] :
-
+![img20](https://user-images.githubusercontent.com/39355400/161222946-681683a6-331c-4c9b-9a58-56afbde795e4.PNG)
 
 <br>
 
